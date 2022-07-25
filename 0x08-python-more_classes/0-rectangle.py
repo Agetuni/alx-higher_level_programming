@@ -1,10 +1,9 @@
 #!/usr/bin/python3
 """
-module containing the class rectangle
+    Module contains of a single class
 """
+
+
 class Rectangle:
-    """
-    class defines rectangle
-    """
+    """Defines a reactangle"""
     pass
-    #pass is used for empty blocks
