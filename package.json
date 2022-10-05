@@ -1,0 +1,19 @@
+{
+  "name": "alx-higher_level_programming",
+  "version": "1.0.0",
+  "description": "> [0-add.py](https://github.com/Agetuni/alx-higher_level_programming/blob/main/0x02-python-import_modules/0-add.py)\r > [1-calculation.py](https://github.com/Agetuni/alx-higher_level_programming/blob/main/0x02-python-import_modules/1-calculation.py)\r > [2-args.py](https://github.com/Agetuni/alx-higher_level_programming/blob/main/0x02-python-import_modules/2-args.py)",
+  "main": "index.js",
+  "scripts": {
+    "test": "semistandard && node my-normal-tests-littered-with-semicolons.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agetuni/alx-higher_level_programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agetuni/alx-higher_level_programming/issues"
+  },
+  "homepage": "https://github.com/Agetuni/alx-higher_level_programming#readme"
+}
